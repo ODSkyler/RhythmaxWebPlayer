@@ -1,0 +1,11 @@
+.color-variables {
+    --tidal: #1DB954;
+}
+
+.disabled-tab {
+    display: none;
+}
+
+.badge-soon {
+    display: none;
+}
